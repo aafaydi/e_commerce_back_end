@@ -23,9 +23,9 @@ GitHub Repo: https://github.com/aafaydi/e_commerce_back_end
 
 GitHub Pages:  https://aafaydi.github.io/e_commerce_back_end/
 
-![Videos] (Insomnia - e_commerce_challenge – tag 2022-05-13 08-33-16.mp4 )
-(tag-routes.js - E-commerce_back_end - Visual Studio Code 2022-05-13 08-27-15.mp4)
-
+![Videos] 
+1) https://www.youtube.com/watch?v=ptPLg8GN5o8
+2) https://www.youtube.com/watch?v=G7nvWAOcvXw
 
 ## Installation:
 1.  No installation if needed 
